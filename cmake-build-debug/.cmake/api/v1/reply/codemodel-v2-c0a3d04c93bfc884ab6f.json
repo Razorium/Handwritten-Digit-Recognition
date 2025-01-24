@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "apasihiniprgajelas",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "apasihiniprgajelas::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apasihiniprgajelas-Debug-cf64fd28bc1e0e4a4d38.json",
+					"name" : "apasihiniprgajelas",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/University/CUHKSZ/Courses/Y2T1/CSC3002/proj_122040024/Code/cmake-build-debug",
+		"source" : "D:/University/CUHKSZ/Courses/Y2T1/CSC3002/proj_122040024/Code"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

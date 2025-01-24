@@ -1,0 +1,3 @@
+D:/University/CUHKSZ/Courses/Y2T1/CSC3002/proj_122040024/Code/cmake-build-debug/CMakeFiles/apasihiniprgajelas.dir
+D:/University/CUHKSZ/Courses/Y2T1/CSC3002/proj_122040024/Code/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/University/CUHKSZ/Courses/Y2T1/CSC3002/proj_122040024/Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/Jonathan Kristian/CLionProjects/apasihiniprgajelas/build/CMakeFiles/apasihiniprgajelas.dir
+C:/Users/Jonathan Kristian/CLionProjects/apasihiniprgajelas/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Jonathan Kristian/CLionProjects/apasihiniprgajelas/build/CMakeFiles/ZERO_CHECK.dir
